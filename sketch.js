@@ -41,7 +41,7 @@ function setup(){
 
     ball = new Ball(200,200,80,80);
 
-    rope = new Rope(ball.body, {x : 500, y: 50});
+    rope = new Rope(ball.body, {x : 500, y: 100});
     
 
 
